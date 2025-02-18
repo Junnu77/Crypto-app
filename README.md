@@ -1,6 +1,7 @@
 # Crypto-App
 The website provides real time crypto data along with interactive charts and prices in indian rupee.
-Also has the functionality of authentication (login/register) and add to cart
+Also has the functionality of authentication (login/register) and add to cart.
+Made using React. Redux is used for state management.
 
 ![Screenshot 2025-02-18 200020](https://github.com/user-attachments/assets/2d14cbfb-8ce0-40f2-9fb7-7c63747c35bd)
 
